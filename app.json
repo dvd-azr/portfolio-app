@@ -1,6 +1,7 @@
-"data" : [{
+{"data" : [{
     "name" :"Membaca Makna",
-    "icon":"",
+    "icon":"https://avatars.githubusercontent.com/u/46072244?v=4",
     "url":"https://dvd-azr.github.io/membaca-makna/index.html",
+    "homepage": "https://dvd-azr.github.io/membaca-makna/index.html",
     "screenshoot":"https://raw.githubusercontent.com/dvd-azr/membaca-makna/master/screenshot.png"
-}]
+}]}
